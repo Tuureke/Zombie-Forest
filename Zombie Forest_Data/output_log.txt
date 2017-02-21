@@ -7,29 +7,29 @@ Direct3D:
     VRAM:     3072 MB
     Driver:   21.21.13.7849
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.019 seconds
-Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Kettunen\Documents\Unity Projects\Builds\Zombie Forest_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kettunen\Documents\GitRepo\Zombie Forest\Zombie-Forest\Zombie Forest_Data\Managed\System.dll (this message is harmless)
 desktop: 2560x1440 59Hz; virtual: 4480x1440 at -1920,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.446646 ms
+UnloadTime: 1.999779 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: a74 -> priority: 1 
+  Thread -> id: 1370 -> priority: 1 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.061877 ms
+UnloadTime: 4.098627 ms
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 8875.
-Total: 7.072141 ms (FindLiveObjects: 0.370849 ms CreateObjectMapping: 0.170082 ms MarkObjects: 1.321204 ms  DeleteObjects: 5.209129 ms)
+Total: 5.382133 ms (FindLiveObjects: 0.373771 ms CreateObjectMapping: 0.178264 ms MarkObjects: 1.444528 ms  DeleteObjects: 3.385276 ms)
 
